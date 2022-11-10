@@ -1,0 +1,26 @@
+html {
+  scroll-behavior: smooth;
+}
+body {
+  
+  font-weight: 400;
+  font-size: 16px;
+  color: #3a4562;
+  background: #e6e9f2;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+  width: 100%;
+}
+
+.page {
+  flex: 1 1 auto;
+}
+section {
+  max-width: 1430px;
+  margin: 0 auto;
+  padding: 0px 15px;
+}

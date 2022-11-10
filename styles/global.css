@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import '../styles/Css/resetNormalize.css';
+@import '../styles/Css/setMedia.css';
+@import '../styles/Css/layout.css'
